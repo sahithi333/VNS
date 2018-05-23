@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<page-elements>
+
+
+<!-- Policy menu -->
+   <page-element no="1">
+    <type></type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath>.//*[@id='app-main-nav']/app-main-nav-item[3]/div/div[1]</xPath>
+    <linkText></linkText>
+    <data></data>
+  </page-element>
+
+  
+  <!-- Policy sub menu 1 -->
+   <page-element no="2">
+    <type></type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath>.//*[@id='main-content']/app-apps-policy/div[1]/div/div[1]/div/div[1]/h1</xPath>
+    <linkText></linkText>
+    <data></data>
+  </page-element>
+  
+  
+    <!-- Policy sub-menu 2 -->
+   <page-element no="3">
+    <type></type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath>.//*[@id='main-content']/app-apps-policy/div[1]/div/div[2]/div/div[1]/h1</xPath>
+    <linkText></linkText>
+    <data></data>
+  </page-element>
+  
+  			
+      <!-- Policy sub-menu 3 -->
+   <page-element no="4">
+    <type></type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath>.//*[@id='main-content']/app-apps-policy/div[1]/div/div[3]/div/div[2]/h3</xPath>
+    <linkText></linkText>
+    <data></data>
+  </page-element>
+  
+  			
+  			
+  					
+  
+  </page-elements>
+  
+  

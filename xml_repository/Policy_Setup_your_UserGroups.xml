@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<page-elements>
+
+
+	<!-- Policy menu -->
+	<page-element no="1">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector></cssSelector>
+		<xPath>.//*[@id='app-main-nav']/app-main-nav-item[3]/div/div[1]
+		</xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+
+	<!-- Policy sub menu 1 -->
+	<page-element no="2">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector></cssSelector>
+		<xPath>.//*[@id='main-content']/app-apps-policy/div[1]/div/div[1]/div/div[1]/h1
+		</xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+
+	<!-- Policy sub-menu 2 -->
+	<page-element no="3">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector></cssSelector>
+		<xPath>.//*[@id='main-content']/app-apps-policy/div[1]/div/div[2]/div/div[1]/h1
+		</xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+
+	<!-- Policy sub-menu 3 -->
+	<page-element no="4">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector></cssSelector>
+		<xPath>.//*[@id='main-content']/app-apps-policy/div[1]/div/div[3]/div/div[2]/h3
+		</xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+
+
+	<!-- Add user group button -->
+	<page-element no="5">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.btn.add-app-button.round.primary.on-white</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+
+	<!-- Add user group name textbox -->
+	<page-element no="6">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.text-input.p.form-control.form-control-text
+		</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+
+	<!-- Save button -->
+	<page-element no="7">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.small.round.primary.on-white</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+	<!-- Edit button -->
+	<page-element no="8">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.cui-sm.edit-nu-er</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+
+	<!-- Expand button -->
+	<page-element no="9">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.cui-sm.open-close-btn</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+
+	<!-- Add location mapping button -->
+	<page-element no="10">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.add-app-button.round.secondary.small.on-white
+		</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+
+
+	<!-- locations text box dropdown -->
+	<page-element no="11">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.square.secondary.on-white</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+	<!-- dropdown-list -->
+	<page-element no="12">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.dropdown-item</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+	<!-- Ip range start and end textboxes -->
+	<page-element no="13">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.text-input.p.form-control.form-control-text</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+
+	<!-- Table data -->
+	<page-element no="14">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.accordion-title.ves-table-row.row</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+	<!-- Table text to verify -->
+	<page-element no="15">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.label-content</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+
+
+
+	<!-- Delete buttons -->
+	<page-element no="16">
+		<type></type>
+		<id></id>
+		<name></name>
+		<className></className>
+		<cssSelector>.cui-sm.close-alt</cssSelector>
+		<xPath></xPath>
+		<linkText></linkText>
+		<data></data>
+	</page-element>
+
+</page-elements>
+  
+  
